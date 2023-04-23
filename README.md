@@ -1,4 +1,4 @@
-# API REST with paging
+# API REST With Paging
 
 Il s'agit d'une simple API REST d'une société X.
 Les informations sont stockées dans une base de données H2. 
