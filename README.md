@@ -1,7 +1,7 @@
 # API REST with paging
 
 Il s'agit d'une simple API REST d'une société X.
-La société a stocké les informations de leurs employées dans une base de données H2. 
+Les informations sont stockées dans une base de données H2. 
 L'API implémente une seule des opérations CRUD. Il s'agit de récupération
 de tous les employés avec un système de pagination et de tri.
 
