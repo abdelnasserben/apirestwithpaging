@@ -5,7 +5,7 @@ La société a stocké les informations de leurs employées dans une base de don
 L'API implémente une seule des opérations CRUD. Il s'agit de récupération
 de tous les employés avec un système de pagination et de tri.
 
-**NB :** Pour l'implémentation de toutes les opérations CRUD, nous disposons d'un projet semblable [ici](https://github.com/abdelnasserben/sampleapirest) 
+**NB :** si vous désirez une API implémentant toutes les opérations CRUD, consultez [ce projet](https://github.com/abdelnasserben/sampleapirest).
 
 
 ## Installation
